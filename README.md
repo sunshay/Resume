@@ -13,8 +13,8 @@ BIO
 * 🌍 I'm mostly active with GitHub project 
 * 🌱 Learning all about Drone and Opencv
 * 💬 Ping me about software engineering
-* 📫 Reach me: twitter.com/
-* ⚡️ Fun fact: fan of french Caribean music
+* 📫 Reach me: twitter.com/sunshinemawers
+* ⚡️ Fun fact: fan of Caribean music Kompa and Zouk
 
 🛠 Technology-Stack
 * 💻   Python(Flask) | Node js | HTML | CSS | Bootstrap.
