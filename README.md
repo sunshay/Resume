@@ -21,5 +21,5 @@ I'm a Python Engineer working Remotely.
 * 🌐   Django, Machine Learning
 * 🛢   MySQL | MongoDB 
 * 🔧   Git | Github | Heroku
-* 🖥   Operating Systems: Windows, Linux, macOS.
-* ⚙️   Methodologies: CICD pipelines in Azure DevOps          
+* 🖥   Windows, Linux, macOS.
+* ⚙️   Azure DevOps          
