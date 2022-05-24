@@ -2,10 +2,10 @@ Hey!!! What’s going on ?
 
 I'm a Python Engineer working Remotely.
 
-NOW
+🏄🏿‍♂️ NOW
 * ✨ Working on ....
 * 😊  Living my Best life
-* 🧑‍🎤 Open to new opportunities and adventures
+* 👍🏿 Open to new opportunities and adventures
 
 🧬 BIO
 * 🏢 I'm currently  working on divers project  
