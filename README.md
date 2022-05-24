@@ -1,10 +1,10 @@
 Hey!!! What’s going on ?
 
-I'm a Software Engineer working Remotely.
+I'm a Python Engineer working Remotely.
 
 NOW
-* ✨ Working on ; a modern data collection toolbox
-* Living in a "shitty country"
+* ✨ Working on ....
+* Living my Best life
 * 🧑‍🎤 Open to new opportunities and adventures
 
 BIO
