@@ -10,7 +10,7 @@ I'm a Python Engineer working Remotely.
 * ☁️ I use Azure , Digital Ocean
 * ⚡️ Fun fact: fan of Caribean music Kompa and Zouk
 
-🛠 Technology-Stack
+🛠 Technology
 * 💻   Flask | HTML | CSS | Bootstrap
 * ⚙️   Django | Machine Learning
 * 🛢   MySQL | MongoDB 
