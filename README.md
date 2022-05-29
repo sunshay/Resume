@@ -1,6 +1,4 @@
-Hey!!! What’s going on ?
-
-I'm a Python Engineer working Remotely.
+Hey!!! What’s going on ? I'm a Python Engineer working Remotely.
 
 🏄🏿‍♂️ NOW
 * ✨ Working on ...
@@ -11,9 +9,9 @@ I'm a Python Engineer working Remotely.
 * ⚡️ Fun fact: fan of Caribean music Kompa and Zouk
 
 🛠 Technology
-* 💻   Flask | HTML | CSS | Bootstrap
+* 💻   Flask | HTML | CSS | Bootstrap | Pyscript
 * ⚙️   Django | Machine Learning
 * 🛢   MySQL | MongoDB 
-* 🔧   Git | Github | Heroku
+* 🔧   Git | Github 
 * 🖥   Windows | Linux | macOS
-* ☁️   Azure DevOps | Azure | Digital Ocean         
+* ☁️   Azure DevOps | Azure | Digital Ocean        
