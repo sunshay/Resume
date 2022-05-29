@@ -9,7 +9,7 @@ Hey!!! What’s going on ? I'm a Python Engineer working Remotely.
 * ⚡️ Fun fact: fan of Caribean music Kompa and Zouk
 
 🛠 Technology
-* 💻   Flask | HTML | CSS | Bootstrap | Pyscript
+* 💻   Flask | HTML | CSS | Pyscript
 * ⚙️   Django | Machine Learning
 * 🛢   MySQL | MongoDB 
 * 🔧   Git | Github 
