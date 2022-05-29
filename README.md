@@ -3,23 +3,17 @@ Hey!!! What’s going on ?
 I'm a Python Engineer working Remotely.
 
 🏄🏿‍♂️ NOW
-* ✨ Working on ....
-* 😊  Living my Best life
-* 👍🏿 Open to new opportunities and adventures
+* ✨ Working on ...
 
 🧬 BIO
 * 🏢 I'm currently  working on divers project  
 * ☁️ I use Azure , Digital Ocean
-* 🌍 I'm mostly active with GitHub 
-* 🌱 Learning all about Drone and Opencv
-* 💬 Ping me about Python engineering
-* 📫 Reach me: twitter.com/sunshinemawers
-* ⚡️ Fun fact: fan of Caribean music Kompa and Zouk
+* * ⚡️ Fun fact: fan of Caribean music Kompa and Zouk
 
 🛠 Technology-Stack
 * 💻   Flask | HTML | CSS | Bootstrap
-* 🌐   Django, Machine Learning
+* ⚙️   Django | Machine Learning
 * 🛢   MySQL | MongoDB 
 * 🔧   Git | Github | Heroku
-* 🖥   Windows, Linux, macOS.
-* ⚙️   Azure DevOps          
+* 🖥   Windows | Linux | macOS
+* ☁️   Azure DevOps | Azure | Digital Ocean         
