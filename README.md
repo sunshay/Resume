@@ -8,7 +8,7 @@ I'm a Python Engineer working Remotely.
 🧬 BIO
 * 🏢 I'm currently  working on divers project  
 * ☁️ I use Azure , Digital Ocean
-* * ⚡️ Fun fact: fan of Caribean music Kompa and Zouk
+* ⚡️ Fun fact: fan of Caribean music Kompa and Zouk
 
 🛠 Technology-Stack
 * 💻   Flask | HTML | CSS | Bootstrap
