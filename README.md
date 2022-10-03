@@ -4,7 +4,7 @@ Hey! what’s going on ? I'm a Python engineer
 { "sona hotel" } / 
 
 🛠 
-* 💻   Python | HTML | CSS | Javascript
+* 💻   Python | Javascript
 * ⚙️   Django | Flask
 * 🛢   MySQL  | MongoDB 
 * 🔧   Git   | Github 
