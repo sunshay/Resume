@@ -1,6 +1,7 @@
-Hey! what’s going on ? I'm a Python engineer, Javascript developer 
+Hey! what’s going on ? I'm a Python engineer
 
-🏄🏿‍♂️ Working on projects { "sona hotel" } 
+🏄🏿‍♂️ Working on projects 
+{ "sona hotel" } / 
 
 🛠 
 * 💻   Python | HTML | CSS | Javascript
