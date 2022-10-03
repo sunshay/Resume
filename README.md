@@ -1,11 +1,11 @@
 Hey! what’s going on ? I'm a Python engineer, Javascript developer 
 
-🏄🏿‍♂️ Working on divers projects
+🏄🏿‍♂️ Working on projects { "sona hotel" } 
 
 🛠 
-* 💻   Python | HTML | CSS | Javascript | Jquery
+* 💻   Python | HTML | CSS | Javascript
 * ⚙️   Django | Flask
-* 🛢   MySQL | MongoDB 
-* 🔧   Git | Github 
-* 🖥   Windows | Linux | macOS
-* ☁️   Azure | Digital Ocean        
+* 🛢   MySQL  | MongoDB 
+* 🔧   Git   | Github 
+* 🖥   Linux | macOS
+* ☁️   Azure | Google Cloud        
