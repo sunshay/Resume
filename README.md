@@ -1,7 +1,7 @@
 Hey! what’s going on ? I'm a Python engineer
 
 🏄🏿‍♂️ Working on projects 
-{ "sona hotel" } / 
+1.sona hotel 
 
 🛠 
 * 💻   Python | Javascript
