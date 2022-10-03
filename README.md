@@ -1,7 +1,8 @@
 Hey! what’s going on ? I'm a Python engineer
 
-🏄🏿‍♂️ Working on projects 
+🏄🏿‍♂️ Working on projects :
 1.sona hotel 
+2.
 
 🛠 
 * 💻   Python | Javascript
