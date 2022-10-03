@@ -1,8 +1,6 @@
 Hey! what’s going on ? I'm a Python engineer
 
 🏄🏿‍♂️ Working on projects 
-:
-1.sona hote
 
 🛠 
 * 💻   Python | Javascript
