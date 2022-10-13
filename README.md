@@ -6,6 +6,6 @@ Hey! what’s going on ? I'm a Python engineer
 * 💻   Python | Javascript
 * ⚙️   Django | Flask
 * 🛢   MySQL  | MongoDB 
-* 🔧   Git   | Github 
+* 🔧   AI  
 * 🖥   Linux | macOS
 * ☁️   Azure | Google Cloud        
