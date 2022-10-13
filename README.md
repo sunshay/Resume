@@ -3,9 +3,9 @@ Hey! what’s going on ? I'm a Python engineer
 🏄🏿‍♂️ wave... 
 
 🛠 
-* 💻   Python | Javascript
-* ⚙️   Django | Flask
+* 💻   Python | React native
+* ⚙️   Django | Rest API
 * 🛢   MySQL  | MongoDB 
 * 🔧   AI  
 * 🖥   Linux | macOS
-* ☁️   Azure | Google Cloud        
+* ☁️   Azure | Pythonanywhere        
