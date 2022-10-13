@@ -1,6 +1,6 @@
 Hey! what’s going on ? I'm a Python engineer
 
-🏄🏿‍♂️ Working on projects 
+🏄🏿‍♂️ wave... 
 
 🛠 
 * 💻   Python | Javascript
