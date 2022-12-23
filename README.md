@@ -3,8 +3,8 @@ Hey! what’s going on ? I'm a Python engineer
 🏄🏿‍♂️ wave... 
 
 🛠 
-* 💻   Python 
-* ⚙️   Django Rest API
+* 💻   Python, Php ,JavaScript
+* ⚙️   Django ,Laravel ,jQuery,  
 * 🛢   MySQL   
 * 🔧   AI  
 * 🖥   Linux | macOS
