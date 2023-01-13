@@ -1,4 +1,4 @@
-Hey! what’s going on ? I'm a Python engineer
+Hey! what’s going on ? I'm a Software Engineer
 
 🏄🏿‍♂️ wave... 
 
