@@ -1,4 +1,4 @@
-Hey! what’s going on ? I'm a Software Engineer
+Hey! what’s going on? I'm a software engineer.
 
 🏄🏿‍♂️ wave... 
 
