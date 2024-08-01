@@ -1,5 +1,4 @@
-Hey! what’s going on? I'm a software engineer.
-
+Hey! what’s going on? I'm a software Product Manager.
 🏄🏿‍♂️ wave... 
 
 🛠 
